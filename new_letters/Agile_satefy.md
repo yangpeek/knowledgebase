@@ -2,18 +2,20 @@ I’m writing you this email about agile and retrospective with building psychol
  
 Let me step back first, why I feel it’s important to share this largely at this moment.
  
-What’s the problem?
+### What’s the problem?
  
-I heard from multiple people / teams / leaders saying: We’re not doing agile.
-I know a lot of conversations about failed projects, attempts saying:
-* Some teams / projects are horrible, can’t be worst.
-* We shouldn’t built that service as that way first ( I heard both for monolithic and for micro services ).
-* Why this person can’t do that, why that person did such a bad job.
+* I heard from multiple people / teams / leaders saying: We’re not doing agile.
+* I know a lot of conversations about failed projects, attempts saying:
+  * Some teams / projects are horrible, can’t be worst.
+  * We shouldn’t built that service as that way first ( I heard both for monolithic and for micro services ).
+  * Why this person can’t do that, why that person did such a bad job.
  
 As a team member, I see the good initiatives and I have some wishes.
  
 Good:
-We’re not satisfying, we’re reinventing, we’re finding better ways.
+* We’re not satisfying
+* We’re reinventing
+* We’re finding better ways.
  
 My wishes:
 * We’re friendly to failures in some scenario.
@@ -27,9 +29,10 @@ My wishes:
 except one is with ppl, one is with machine,
 different languages and
 one is black and white test largely, one is black test and white test only with safety.)
+
 (So CAP: consistency, availability and Partition tolerance need to be carefully balanced in life, since human is not machine.)
  
-Why the problem matters?
+### Why the problem matters?
  
 Based on my observation: ppl who willing to work harder, contributing more are more easy to fail.
 If no such ppl who taking those actions potentially failing, we as a team together, can’t move till now at all.
@@ -37,14 +40,14 @@ No matter what those ppl working on: product, engineering, process, sales, sugge
 Success is a process through iterations, success may not be a final state.
 We need to provide the environment for iterations together.
  
-How?
+### How?
  
-Agile: https://agilemanifesto.org/
-And Building psychological safety: https://agilecoachingexchange.com/2017/06/02/alicia-mclain-explores-safety-on-scrumalliance-community-blog/
+* Agile: https://agilemanifesto.org/
+* And Building psychological safety: https://agilecoachingexchange.com/2017/06/02/alicia-mclain-explores-safety-on-scrumalliance-community-blog/
  
 (If you have more suggestions for how to solve the problem, please response me!)
  
-What’s Agile:
+### What’s Agile:
  
 Let me copy the main content here. ( Agile is principle, not rule, not practice )
  
@@ -70,7 +73,7 @@ we kindly point out where it’s not working and find multiple ways to make it w
 and then allocate time to correct it. ( This needs our understanding and patience. )
 I wish we have more conversations and landing towards actions for the items on the right hand side on agile manifesto. ( This needs our time. )
  
-Why psychological safety matters?
+### Why psychological safety matters?
  
 “We learned that there are five key dynamics that set successful teams apart from other teams at Google:
 Psychological safety: Can we take risks on this team without feeling insecure or embarrassed?
@@ -81,7 +84,7 @@ Impact of work: Do we fundamentally believe that the work we’re doing matters?
 ”
 https://rework.withgoogle.com/blog/five-keys-to-a-successful-google-team/
  
-Why I’m sharing those information in this large group?
+### Why I’m sharing those information in this large group?
  
 Because I see the issues as commonly bumped to anyone anywhere.
 And I love to hear your suggestion / alternative for me.
@@ -92,7 +95,7 @@ https://youtu.be/hMk6rF4Tzsg?t=1476 (“I knew it all along” effect)
 https://youtu.be/hMk6rF4Tzsg?t=1563 ( Assume positive Intent, our team shouldn’t earn our trust, they should get it implicitly. )
 https://youtu.be/hMk6rF4Tzsg?t=2000
  
-What I’ll do differently? What I need from you?
+### What I’ll do differently? What I need from you?
  
 I’ll try to care more and also dare to ask for more details.
  
