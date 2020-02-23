@@ -98,54 +98,51 @@ I’ll try to care more and also dare to ask for more details.
  
 I need your time, patience and encourage.
  
-* I wish I’ll follow up on question “We’re not doing agile in MM”:
+1. I wish I’ll follow up on question “We’re not doing agile in MM”:
  
-Which part do you think we could improve
+* Which part do you think we could improve
 ( individual and interactions, working software, customer collaboration or responding to change )?
-How could we improve that part?
-Who can help in the improve plan?
+* How could we improve that part?
+* Who can help in the improve plan?
  
  
-* I wish I’ll follow up on question “We shouldn’t built that service as that way at first”,
+2. I wish I’ll follow up on question “We shouldn’t built that service as that way at first”,
 “Some teams / projects are horrible, can’t be worst.”:
  
-What’s the way you want the service to build like?
-What’s the problem this way could solve vs that way?
-Do we have alternative ways to achieve that goal?
-How do you want to get involved in building the service?
-What’s cost we expect to build that way?
-What’s the budget we’re allowed to build that way?
-What’s the projected earnings / benefit by building it that way?
-What’s the problem / bottleneck to build that way?
-How’re we going to solve the problem to build that way?
-Who’re the key contributor?
-What’s their concerns?
-Is their concern valid?
-If their concern is not valid, how could we show that concern isn’t valid?
+* What’s the way you want the service to build like?
+* What’s the problem this way could solve vs that way?
+* Do we have alternative ways to achieve that goal?
+* How do you want to get involved in building the service?
+* What’s cost we expect to build that way?
+* What’s the budget we’re allowed to build that way?
+* What’s the projected earnings / benefit by building it that way?
+* What’s the problem / bottleneck to build that way?
+* How’re we going to solve the problem to build that way?
+* Who’re the key contributor?
+* What’s their concerns?
+* Is their concern valid?
+* If their concern is not valid, how could we show that concern isn’t valid?
  
-* I wish I’ll follow up on question “Why this person can’t do that”,
+3. I wish I’ll follow up on question “Why this person can’t do that”,
   “why that person did such a bad job”:
  
-What’s the problem we’re trying to solve by discussing that person?
-What’s that person’s opinion?
-What’s that person’s initiative?
-What’s your initiative?
-Is that person the problem?
-Am I / are you the problem?
-What’s that person’s strength?
-What’s that person’s weakness?
-How could we help that person?
-How could we help ourselves?
-Who can pair with the person?
-Could something be changed at his side?
-Could something be changed at our side?
-What’s part we’re building the team by the action?
-What’s part we’re hurting the team by the action?
+* What’s the problem we’re trying to solve by discussing that person?
+* What’s that person’s opinion?
+* What’s that person’s initiative?
+* What’s your initiative?
+* Is that person the problem?
+* Am I / are you the problem?
+* What’s that person’s strength?
+* What’s that person’s weakness?
+* How could we help that person?
+* How could we help ourselves?
+* Who can pair with the person?
+* Could something be changed at his side?
+* Could something be changed at our side?
+* What’s part we’re building the team by the action?
+* What’s part we’re hurting the team by the action?
  
 I know it’s easy to say, and hard to do.
 So that’s the reason I need your opt-in action, help, encourage and suggestion.
  
 I believe my wishes will come true with all your help.
- 
-Best,
-Yang Yang
