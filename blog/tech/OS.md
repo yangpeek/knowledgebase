@@ -1,0 +1,4 @@
+- IO Scheduler:
+  - [change io scheduler](https://www.techrepublic.com/article/how-to-change-the-linux-io-scheduler-to-fit-your-needs/)
+  - How to choose scheudler to append on change:
+    - [CFQ](https://en.wikipedia.org/wiki/CFQ)
