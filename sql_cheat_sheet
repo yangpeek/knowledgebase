@@ -1,0 +1,3 @@
+select * from tasks
+where metadata @> '{"id": 554224}'
+and metadata::text like '%2-554224-20F%'; 
