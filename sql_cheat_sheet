@@ -3,3 +3,7 @@ where metadata @> '{"id": 554224}'
 and metadata::text like '%2-554224-20F%'; 
 
 https://medium.com/hackernoon/how-to-query-jsonb-beginner-sheet-cheat-4da3aa5082a3
+
+select count(id), substring(inserted_at::varchar, 0, 14) from table
+where id = 708543
+group by 2;
